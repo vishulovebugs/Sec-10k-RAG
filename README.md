@@ -69,12 +69,6 @@ Everything runs locally and free — no API keys, no rate limits.
   ```
 - (Optional) An NVIDIA GPU for the reranker. CPU works but is slower. For GPU, torch is pinned to a CUDA build in `pyproject.toml`.
 
-**Install:**
-```bash
-git clone (https://github.com/vishulovebugs/Sec-10k-RAG.git)
-cd rag-finance
-uv sync
-```
 
 **Download the filings** (SEC requires a real name + email in the user-agent):
 ```bash
