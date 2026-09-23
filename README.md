@@ -71,7 +71,7 @@ Everything runs locally and free — no API keys, no rate limits.
 
 **Install:**
 ```bash
-git clone https://github.com/gouravshokeen/rag-finance.git
+git clone (https://github.com/vishulovebugs/Sec-10k-RAG.git)
 cd rag-finance
 uv sync
 ```
